@@ -5,7 +5,6 @@ public class VariableTypes
     public string AnimalName = "Maned Wolf";
     public char GradeLetter = 'A';
     public int Year = 2036;
-    public double Hight = 5.2;
+    public double Height = 5.2;
     public bool IsIndoorPet = false;
-
 }
